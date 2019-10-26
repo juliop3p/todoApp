@@ -1,7 +1,7 @@
 module.exports = {
     database: 'todo',
-    username: 'julio',
-    password: 'Tel32991046',
+    username: 'user',
+    password: 'password',
     dialect: 'mysql',
     host: 'localhost'
 }
