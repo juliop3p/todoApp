@@ -1,0 +1,63 @@
+.container {
+    max-width: 700px;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    background: #fff;
+    font-size: 1.2em;
+}
+
+.container p {
+    display: inline;
+}
+
+.container input, p {
+    margin: 20px 10px 15px 0;
+}
+
+.container .remove-btn {
+    background: #fff;
+    border: 1px solid rgb(255, 0, 0);
+    width: 100px;
+    cursor: pointer;
+    color: #f00;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.container .remove-btn:hover {
+    color: #fff;
+    background: rgb(255, 0, 0);
+}
+
+.container .input-todo {
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    font-size: 16px;
+}
+
+.container button {
+    width: 100%;
+    height: 30px;
+    align-self: center;
+    background: #fff;
+    border: 2px solid rgb(10, 207, 53);
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.container button:hover {
+    background: rgb(10, 207, 53);
+    color: #fff;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #aaa;
+    font-style: italic;
+}
