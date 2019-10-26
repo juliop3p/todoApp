@@ -7,3 +7,12 @@
 ### Backend feito em Node.js com Express, banco de dados utilizado foi MySql
 ### Frontend feito em React.js
 ### Mobile feito em React Native
+
+## Web
+![Web](https://github.com/juliop3p/todo-app/blob/master/Web.png)
+
+## Mobile Visual
+![Mobile](https://github.com/juliop3p/todo-app/blob/master/MobileVisual.png)
+
+## Mobile Adicionar Todo
+![Mobile](https://github.com/juliop3p/todo-app/blob/master/MobileAdd.png)
